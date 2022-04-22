@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/identification-cards/static/css/main.aa16f0f8.css",
+    "main.js": "/identification-cards/static/js/main.4a893639.js",
+    "static/js/787.b4302155.chunk.js": "/identification-cards/static/js/787.b4302155.chunk.js",
+    "index.html": "/identification-cards/index.html",
+    "main.aa16f0f8.css.map": "/identification-cards/static/css/main.aa16f0f8.css.map",
+    "main.4a893639.js.map": "/identification-cards/static/js/main.4a893639.js.map",
+    "787.b4302155.chunk.js.map": "/identification-cards/static/js/787.b4302155.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa16f0f8.css",
+    "static/js/main.4a893639.js"
+  ]
+}
