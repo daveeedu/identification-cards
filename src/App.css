@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+/* .master{
+  display: grid !important;
+  grid-template-columns: repeat(2, 1fr) !important;
+  grid-gap: 10px !important;
+} */
+.cards{
+  margin: 0 auto;
+  width: 50% !important;
+  background-color: #eff2f8 !important; 
+}
+
+.cards p{
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #2d3436;
+}
+
+@media screen and (max-width: 425px) {
+  .cards{
+    width: 90% !important;
+  }
+  .cards p{
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .cards p{
+    font-size: 0.7rem;
+  }
+}
+@media screen and (max-width: 320px) {
+  .cards p{
+    font-size: 0.6rem;
+  }
+}
+  
+
