@@ -27,6 +27,13 @@ export default function UserData() {
                 <div className="card-title">
                   <h5 className="card-title display-5 fw-bold">{user.name}</h5>
                 </div>
+                <div>
+                  <p className="text-secondary fw-normal">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quisquam 
+                    doloremque, dolore, quisquam quis quisquam quisquam quisquam quisquam
+                    Lorem ipsum dolor.
+                  </p>
+                </div>
                 <div className="card-content">
                   <div className="">
                     <h3 className="my-4 fst-italic fw-bold">General Info</h3>
